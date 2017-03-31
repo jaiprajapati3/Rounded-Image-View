@@ -12,14 +12,9 @@ dependencies {
 
 In layout.xml file add below code.
 
- <androidpugnator.roundedimageview.RoundImageView
- 
+   <androidpugnator.roundedimageview.RoundImageView
         android:layout_width="100dp"
-        
         android:layout_height="100dp"
-        
         android:src="@drawable/yourimage"
-        
         android:layout_centerHorizontal="true"
-        
         android:layout_centerVertical="true"/>
