@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('roundedimageview-debug.aar'))
