@@ -1,6 +1,6 @@
 This tutorial shows you how to create rouded image view in android.
 
- Add roundedimageview-debug.aar in your project.4
+ Add roundedimageview-debug.aar in your project.
  
  Project > New > Module >Import JAR/.AAR Package > Select roundedimageview-debug.aar
  
